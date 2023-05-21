@@ -17,13 +17,19 @@ locale: "ja"
 
 ```md
 ---
+title: ごま's homepage
 ---
 
 # Description 
 
-このページのタイトルは {{ site.title }} です. description は下記の通りです．
+このページのタイトルは {{ page.title }} です. 
+
+{{ site.title }} はこのウェブサイトのタイトルです．ページとは区別されます．
+
+description は下記の通りです．
 
 {{ site.description }}
+
 ```
 
-例えば `{{ site.title }}` の部分は `ごま's homepage` のようになります．
+例えば `{{ page.title }}` の部分は `ごま's homepage` のようになります．
