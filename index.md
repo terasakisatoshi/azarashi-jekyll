@@ -1,11 +1,9 @@
 ---
 ---
 
-{{ site.title }}
-
 # Goma
 
-aaaa
+このページのタイトルは {{ site.title }} です
 
 # Kyu
 
