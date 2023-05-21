@@ -10,5 +10,5 @@
 ## Kyu
 
 ```math
-1 + 1 = 2
+\alpha + \beta = \gamma
 ```
