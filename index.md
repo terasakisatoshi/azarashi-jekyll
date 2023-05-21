@@ -1,10 +1,14 @@
 ---
 ---
 
-# Goma
+# Description 
 
-このページのタイトルは {{ site.title }} です
+このページのタイトルは {{ site.title }} です. description は下記の通りです．
 
-# Kyu
+{{ site.description }}
 
-bbb
+## Kyu
+
+```math
+1 + 1 = 2
+```
