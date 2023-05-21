@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+{{ site.title }}
 
 # Goma
 
