@@ -6,6 +6,10 @@ For debugging jekyll
 
 GitHub Pages の機能でホームページを作成する際のデバッグ場所.
 
+https://terasakisatoshi.github.io/azarashi-jekyll/
+
+で確認できる.
+
 # ファイル
 
 ファイルは下記のようになっているはずです:
