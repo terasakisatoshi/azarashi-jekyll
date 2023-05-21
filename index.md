@@ -1,9 +1,10 @@
 ---
+title: ごま's homepage
 ---
 
 # Description 
 
-このページのタイトルは {{ site.title }} です. description は下記の通りです．
+このページのタイトルは {{ page.title }} です. description は下記の通りです．
 
 {{ site.description }}
 
